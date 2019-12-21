@@ -1,5 +1,5 @@
 [Home](/)  
-[Reference CLI](/docs/reference.md)
+[Reference CLI](/docs/reference)
 
 ## Athenaeum
 
