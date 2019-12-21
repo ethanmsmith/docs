@@ -1,5 +1,5 @@
 [Home](/)  
-[Athenaeum](../docs/athenaeum)
+[Athenaeum](/docs/athenaeum.md)
 
 # Reference CLI
 Reference CLI is a node package that allows users to create boilerplate react files akin to Angular CLI.
