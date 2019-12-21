@@ -9,7 +9,7 @@ This is a made for react TypeScript.
 - [Examples](#Examples)
 - [Description](#Description)
 - [Rationale](#Rationale)
-- [Misc.](#PlannedWork)
+- [Misc.](#Planned-Work)
 
 ## Synopsis
 ```c#
