@@ -5,11 +5,11 @@
 Reference CLI is a node package that allows users to create boilerplate react files akin to Angular CLI.
 This is a made for react TypeScript.
 
-- [Synopsis](#Synopsis)
-- [Examples](#Examples)
-- [Description](#Description)
-- [Rationale](#Rationale)
-- [Misc.](#Planned-Work)
+- [Synopsis](#synopsis)
+- [Examples](#examples)
+- [Description](#description)
+- [Rationale](#rationale)
+- [Misc.](#planned-work)
 
 ## Synopsis
 ```c#
