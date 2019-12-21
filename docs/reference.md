@@ -41,7 +41,7 @@ OPTIONS
   ```TypeScript
   import MyComponent from './components/my-component/MyComponent.tsx';
   ```
-  we can import like
+  We can import like
   ```TypeScript
   import MyComponent from './components/my-component';
   ```
@@ -54,5 +54,5 @@ OPTIONS
   There is also no unnecessary repetition or any file types. 
   
 ## Planned Work
-  - [] Testing
+  - [ ] Testing
 
