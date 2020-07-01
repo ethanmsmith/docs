@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 remote_theme: pmarsceill/just-the-docs
 title: Appendix
 description: Documentation for all of my projects on GitHub.
